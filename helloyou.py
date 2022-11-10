@@ -1,0 +1,5 @@
+print("hello you!,i am davey who are you?")
+nameInput = input("who are you? ")
+print("hello " + nameInput )
+yearInput = int(input("whitch year are you born? "))
+print("it is 2022, so you are  " +  str(2022 - yearInput) + " years old") 
